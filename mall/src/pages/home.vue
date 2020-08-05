@@ -1,6 +1,6 @@
 <template>
     <div>
-        我是home
+        <!-- 我是home -->
         <nav-header></nav-header>
         <router-view></router-view>
         <nav-footer></nav-footer>
