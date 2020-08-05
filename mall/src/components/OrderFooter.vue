@@ -1,12 +1,12 @@
 <template>
     <div>
-        nav-footer
+        我是订单脚部
     </div>
 </template>
 
 <script>
 export default {
-    name: "nav-footer"
+    name: "orderFooter"
 }
 </script>
 

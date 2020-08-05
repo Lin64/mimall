@@ -1,5 +1,7 @@
 <template>
-  
+  <div>
+      我是商品展示
+  </div>
 </template>
 
 <script>
